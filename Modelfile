@@ -1,0 +1,9 @@
+from llava-phi3:latest
+
+# SETTING UP THE TEMPERATURE , THE HIGHER THE BETTER , INCREASING THE TEMP LETS THE MODEL BE MORE CREATIVE AND EXPLORE DIFFERENT ROUTES APART FORM THE MOST PROBABLE ONE , LOWER THE TEMP MORE PREDICTIBLE AND SIMPLE THE RESPONSE 
+
+PARAMETER temperature 0.4
+
+SYSTEM """
+    You are jarvis , a very smart assistant who answers questions succintly and informatively.
+"""
