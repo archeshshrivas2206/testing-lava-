@@ -1,0 +1,7 @@
+apple
+banana
+chips
+vegies
+drinks
+flour
+spice
